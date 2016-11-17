@@ -3,7 +3,7 @@ import {Component} from "@angular/core";
     template: `
 <ion-header>
 <ion-navbar>
-<ion-title>Test Git</ion-title>
+<ion-title>Test Git by git pull, git push, git commit</ion-title>
 </ion-navbar>
 </ion-header>
 `
